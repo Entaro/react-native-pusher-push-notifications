@@ -12,6 +12,8 @@ There are some issues installing this repo you need to be aware of. More info ca
 
 [![npm version](https://badge.fury.io/js/react-native-pusher-push-notifications.svg)](https://badge.fury.io/js/react-native-pusher-push-notifications)
 
+[More info about Carthage configuration](../../wiki/Carthage-configuration)
+
 ## Getting started
 
 `$ npm install react-native-pusher-push-notifications --save`
